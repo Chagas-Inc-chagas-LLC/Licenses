@@ -1,11 +1,44 @@
-license: CHAGAS 1.0v
-version: 1.0
-warning: você não pode copiar nosso código você pode entrar na Nossa comunidade
-você pode copiar mas coloque essa licença
-você só pode copiar se colocar os créditos
-e link do repositório
-por favor coloque os "CRÉDITOS".
-você realmente pode "COPIAR". quando tem os
-"CRÉDITOS".
-se você "COPIAR". não acontece "NADA". Mas
-por favor coloque os "CRÉDITOS".
+─────────────────────────────────────────────
+CHAGAS LICENSE — Version 1.0
+Copyright (c) 2025 Chagas LLC
+─────────────────────────────────────────────
+
+Preamble:
+Esta licença foi criada para proteger o código, a identidade e a originalidade dos projetos desenvolvidos por **Chagas LLC** e pela comunidade associada.
+
+─────────────────────────────────────────────
+1. Permissão de Uso
+─────────────────────────────────────────────
+É concedida permissão para usar, copiar, modificar e distribuir o Software, **desde que sejam mantidos os devidos créditos ao autor original — Chagas LLC**.
+
+─────────────────────────────────────────────
+2. Condições
+─────────────────────────────────────────────
+- O nome **Chagas LLC** deve ser citado em qualquer cópia, modificação ou redistribuição.
+- O link do repositório original deve estar visível na documentação ou nos créditos.
+- Esta licença **deve permanecer anexada** a todas as cópias ou derivados do código.
+- O usuário pode integrar o código em projetos próprios, **desde que os créditos sejam preservados**.
+
+─────────────────────────────────────────────
+3. Restrições
+─────────────────────────────────────────────
+- É proibido remover ou ocultar os créditos originais.
+- O uso indevido sem créditos é considerado uma violação desta licença.
+- Nenhum direito de marca, nome ou identidade visual é transferido.
+
+─────────────────────────────────────────────
+4. Garantia e Responsabilidade
+─────────────────────────────────────────────
+O Software é fornecido “no estado em que se encontra”, sem garantias expressas ou implícitas de qualquer tipo.
+O autor **não se responsabiliza** por danos diretos ou indiretos resultantes do uso do Software.
+
+─────────────────────────────────────────────
+5. Contato e Comunidade
+─────────────────────────────────────────────
+Você é bem-vindo(a) para participar da comunidade e contribuir com melhorias.
+**Entrar na comunidade é permitido e incentivado.**
+
+─────────────────────────────────────────────
+Versão: 1.0  
+Criador: **Chagas LLC**  
+─────────────────────────────────────────────
