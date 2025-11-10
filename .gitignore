@@ -1,0 +1,5 @@
+#Not code
+*.c
+*.h
+*.ml
+*.other
