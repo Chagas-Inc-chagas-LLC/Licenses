@@ -1,0 +1,11 @@
+license: CHAGAS 1.0v
+version: 1.0
+warning: você não pode copiar nosso código você pode entrar na Nossa comunidade
+você pode copiar mas coloque essa licença
+você só pode copiar se colocar os créditos
+e link do repositório
+por favor coloque os "CRÉDITOS".
+você realmente pode "COPIAR". quando tem os
+"CRÉDITOS".
+se você "COPIAR". não acontece "NADA". Mas
+por favor coloque os "CRÉDITOS".
